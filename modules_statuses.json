@@ -1,0 +1,9 @@
+{
+    "UserAuthentication": true,
+    "AdminDashboard": true,
+    "Products": true,
+    "ProductCategory": true,
+    "Orders": true,
+    "PayPal": true,
+    "P": true
+}

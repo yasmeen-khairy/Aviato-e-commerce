@@ -1,0 +1,5 @@
+@include('admindashboard::header')
+@include('admindashboard::sidebar')
+@include('admindashboard::navbar')
+@yield('body')
+@include('admindashboard::footer')

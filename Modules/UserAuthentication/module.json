@@ -1,0 +1,11 @@
+{
+    "name": "UserAuthentication",
+    "alias": "userauthentication",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\UserAuthentication\\Providers\\UserAuthenticationServiceProvider"
+    ],
+    "files": []
+}
